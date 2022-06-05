@@ -10,10 +10,12 @@ const ProjectsCarousel = () => {
         <Carousel>
           <div>
             <Image src={carouselImg} alt="image1" />
+
             <p className="legend">Image 1</p>
           </div>
           <div>
             <Image src={carouselImg} alt="image2" />
+
             <p className="legend">Image 2</p>
           </div>
         </Carousel>

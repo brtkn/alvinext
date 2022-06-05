@@ -67,7 +67,7 @@ const About = () => {
                   objectFit="cover"
                   width="1000"
                   height="500"
-                  showThumbs={false}
+                  showthumbs="false"
                 />
                 <p className="legend">Image 1</p>
               </div>
@@ -78,7 +78,7 @@ const About = () => {
                   objectFit="cover"
                   width="1000"
                   height="500"
-                  showThumbs={false}
+                  showthumbs="false"
                 />
                 <p className="legend">Image 2</p>
               </div>
@@ -89,7 +89,7 @@ const About = () => {
                   objectFit="cover"
                   width="1000"
                   height="500"
-                  showThumbs={false}
+                  showthumbs="false"
                 />
                 <p className="legend">Image 3</p>
               </div>
@@ -100,7 +100,7 @@ const About = () => {
                   objectFit="cover"
                   width="1000"
                   height="500"
-                  showThumbs={false}
+                  showthumbs="false"
                 />
                 <p className="legend">Image 4</p>
               </div>
@@ -111,7 +111,7 @@ const About = () => {
                   objectFit="cover"
                   width="1000"
                   height="500"
-                  showThumbs={false}
+                  showthumbs="false"
                 />
                 <p className="legend">Image 5</p>
               </div>
@@ -122,7 +122,7 @@ const About = () => {
                   objectFit="cover"
                   width="1000"
                   height="500"
-                  showThumbs={false}
+                  showthumbs="false"
                 />
                 <p className="legend">Image 6</p>
               </div>
@@ -133,7 +133,7 @@ const About = () => {
                   objectFit="cover"
                   width="1000"
                   height="500"
-                  showThumbs={false}
+                  showthumbs="false"
                 />
                 <p className="legend">Image 7</p>
               </div>
@@ -144,7 +144,7 @@ const About = () => {
                   objectFit="cover"
                   width="1000"
                   height="500"
-                  showThumbs={false}
+                  showthumbs="false"
                 />
                 <p className="legend">Image 8</p>
               </div>
@@ -155,7 +155,7 @@ const About = () => {
                   objectFit="cover"
                   width="1000"
                   height="500"
-                  showThumbs={false}
+                  showthumbs="false"
                 />
                 <p className="legend">Image 9</p>
               </div>
@@ -166,7 +166,7 @@ const About = () => {
                   objectFit="cover"
                   width="1000"
                   height="500"
-                  showThumbs={false}
+                  showthumbs="false"
                 />
                 <p className="legend">Image 10</p>
               </div>
@@ -177,7 +177,7 @@ const About = () => {
                   objectFit="cover"
                   width="1000"
                   height="500"
-                  showThumbs={false}
+                  showthumbs="false"
                 />
                 <p className="legend">Image 11</p>
               </div>
@@ -188,7 +188,7 @@ const About = () => {
                   objectFit="cover"
                   width="1000"
                   height="500"
-                  showThumbs={false}
+                  showthumbs="false"
                 />
                 <p className="legend">Image 12</p>
               </div>
